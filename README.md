@@ -1,4 +1,3 @@
-# ivanrodriguezt
 <h2 align="left">Hola👋! Mi Nombre es Ivan</h2>
 
 ###
@@ -59,14 +58,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ivanodora">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://iili.io/HrbTnu2.png"  />
 
 ###
@@ -75,8 +66,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ivanrt460/ivanrt460/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ivanrt460/count.svg?"  />
+</div>
 
 ###
